@@ -7,7 +7,7 @@
 2.Gheorghieș Petruț-Rareș
 
 3.Jitescu Silviu-Cristian
-
+ 
 4.Cohen Albert-Louis
 
 ## Product Vision-ul echipei
