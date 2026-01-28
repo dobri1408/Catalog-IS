@@ -13,7 +13,7 @@ import { ErrorFallback } from "./Components/ErrorFallback";
 import * as Sentry from "@sentry/react";
 
 Sentry.init({
-  dsn: "https://365a1ed35a29056f5f723bdfea3e2517@o4509139342327809.ingest.de.sentry.io/4509139345670224",
+  dsn: "https://3e28649a5b453860618081c1bfa93eb3@o4504083566755840.ingest.us.sentry.io/4510788662591488",
   integrations: [
     Sentry.replayIntegration({
       maskAllText: false, // <--- dezactivează mascarea textului
